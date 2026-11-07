@@ -7,6 +7,14 @@
 #define ANSWERS_A5HEADER_H
 
 #include "SVF-LLVM/SVFIRBuilder.h"
+#include "Graphs/ConsG.h"
+#include <cassert>
+#include <deque>
+#include <fstream>
+#include <iostream>
+#include <map>
+#include <set>
+#include <unordered_set>
 
 /// Point-to set
 using PTS = std::map<unsigned, std::set<unsigned>>;

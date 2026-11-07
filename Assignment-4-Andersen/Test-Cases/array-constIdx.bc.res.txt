@@ -1,0 +1,10 @@
+4 points to: {5, }
+7 points to: {8, }
+10 points to: {11, }
+12 points to: {13, }
+14 points to: {15, }
+18 points to: {27, }
+20 points to: {27, }
+22 points to: {27, }
+24 points to: {27, }
+27 points to: {13, 15, }
